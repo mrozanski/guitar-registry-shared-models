@@ -10,14 +10,14 @@ This package provides a single source of truth for guitar data structures, ensur
 
 ### For Development
 ```bash
-git clone https://github.com/yourusername/eddie-shared-models.git
-cd eddie-shared-models
+git clone https://github.com/mrozanski/guitar-registry-shared-models.git
+cd guitar-registry-shared-models
 pip install -e .
 ```
 
 ### For Production
 ```bash
-pip install eddie-shared-models
+pip install guitar-registry-shared-models
 ```
 
 ## Usage

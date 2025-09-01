@@ -14,14 +14,14 @@ The migration involves:
 
 ### Option A: Install from PyPI (when published)
 ```bash
-pip install eddie-shared-models
+pip install guitar-registry-shared-models
 ```
 
 ### Option B: Install from local development
 ```bash
 # Clone the shared models repository
-git clone https://github.com/yourusername/eddie-shared-models.git
-cd eddie-shared-models
+git clone https://github.com/mrozanski/guitar-registry-shared-models.git
+cd guitar-registry-shared-models
 pip install -e .
 ```
 
@@ -29,7 +29,7 @@ pip install -e .
 
 Add to your `requirements.txt` or `pyproject.toml`:
 ```
-eddie-shared-models>=0.1.0
+guitar-registry-shared-models>=0.1.0
 ```
 
 ## Step 3: Replace JSON Schema Validation
