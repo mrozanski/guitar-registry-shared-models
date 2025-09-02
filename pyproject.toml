@@ -43,7 +43,7 @@ Repository = "https://github.com/mrozanski/guitar-registry-shared-models"
 Issues = "https://github.com/mrozanski/guitar-registry-shared-models/issues"
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/eddie_shared_models"]
+packages = ["src/guitar_registry_shared_models"]
 
 [tool.black]
 line-length = 88
